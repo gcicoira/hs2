@@ -495,7 +495,10 @@ h6,
   background-color: #7e9b9f;
 }
 #features1-3 .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #f3c649;
+  color: #28324e;
+}
+#features1-3 .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
 }
 #msg-box1-b H3 {
   color: #000000;
