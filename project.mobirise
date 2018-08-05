@@ -133,7 +133,8 @@
               "font-size": "72px"
             },
             ".lead P": {
-              "font-size": "25px"
+              "font-size": "25px",
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -155,7 +156,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.1"
           },
-          "title": "HOME SCHOOLING",
+          "title": "HOMESCHOOLING",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -229,7 +230,7 @@
             "columnsColor": "#7e9b9f",
             "paddingTop": 2,
             "paddingBottom": "2",
-            "columns": 4,
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -303,13 +304,13 @@
               "active": true
             }
           },
-          "title1": "Genitori",
+          "title1": "GENITORI",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using th",
-          "title2": "Enti Pubblici",
+          "title2": "ISTITUZIONI",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Stampa Editoria",
+          "title3": "STAMPA ED EDITORIA",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise ma",
           "title4": "Altro",
